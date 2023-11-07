@@ -9,7 +9,7 @@ func main() {
 	var name string = "Isaac"
 	fmt.Println(name)
 
-	var is_string = false;
+	var is_string bool = false;
 	fmt.Println(is_string)
 
 	last_name := "Arcilla"
